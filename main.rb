@@ -1,4 +1,4 @@
 a = 10
 b = 11
-
-puts a+b
+c = "cachorro"
+puts a+b+c
